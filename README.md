@@ -62,10 +62,12 @@ Today I lead **Agentic Transformation** initiatives at AWS: designing technical 
 
 ### 📦 Featured repositories
 
-[![gen-ai-on-eks](https://github-readme-stats.vercel.app/api/pin/?username=aws-samples&repo=gen-ai-on-eks&theme=dracula&hide_border=true)](https://github.com/aws-samples/gen-ai-on-eks)
-[![deepseek-using-vllm-on-eks](https://github-readme-stats.vercel.app/api/pin/?username=aws-samples&repo=deepseek-using-vllm-on-eks&theme=dracula&hide_border=true)](https://github.com/aws-samples/deepseek-using-vllm-on-eks)
-[![sample-eks-troubleshooting-rag-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=aws-samples&repo=sample-eks-troubleshooting-rag-chatbot&theme=dracula&hide_border=true)](https://github.com/aws-samples/sample-eks-troubleshooting-rag-chatbot)
-[![eks-saas-gitops](https://github-readme-stats.vercel.app/api/pin/?username=aws-samples&repo=eks-saas-gitops&theme=dracula&hide_border=true)](https://github.com/aws-samples/eks-saas-gitops)
+| Repository | Stars | What it is |
+|---|---|---|
+| [gen-ai-on-eks](https://github.com/aws-samples/gen-ai-on-eks) | ![stars](https://img.shields.io/github/stars/aws-samples/gen-ai-on-eks?style=flat-square&label=%E2%98%85&color=D97757) | GenAI on EKS reference architecture using Ray |
+| [deepseek-using-vllm-on-eks](https://github.com/aws-samples/deepseek-using-vllm-on-eks) | ![stars](https://img.shields.io/github/stars/aws-samples/deepseek-using-vllm-on-eks?style=flat-square&label=%E2%98%85&color=D97757) | DeepSeek reference architecture for EKS with vLLM |
+| [sample-eks-troubleshooting-rag-chatbot](https://github.com/aws-samples/sample-eks-troubleshooting-rag-chatbot) | ![stars](https://img.shields.io/github/stars/aws-samples/sample-eks-troubleshooting-rag-chatbot?style=flat-square&label=%E2%98%85&color=D97757) | Agentic EKS troubleshooting with GenAI (re:Invent CNS421) |
+| [eks-saas-gitops](https://github.com/aws-samples/eks-saas-gitops) | ![stars](https://img.shields.io/github/stars/aws-samples/eks-saas-gitops?style=flat-square&label=%E2%98%85&color=D97757) | Multi-tenant SaaS on EKS using GitOps (ArgoCD/Flux) |
 
 <sub>→ 21 code samples & contributions (incl. Data on EKS, GenAI CVE Patching) in the [full portfolio](./PORTFOLIO.md#-code-samples--repositories)</sub>
 
@@ -104,9 +106,11 @@ Today I lead **Agentic Transformation** initiatives at AWS: designing technical 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lusoal&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusoal&layout=compact&theme=dracula&count_private=true&hide_border=true" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
+  <img src="./github-metrics-languages.svg" alt="Top languages" />
 </p>
+
+<sub>Auto-generated daily by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — static SVG, no flaky third-party calls.</sub>
 
 ---
 

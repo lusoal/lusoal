@@ -1,3 +1,28 @@
+# Profile automation
+
+Two independent things power this profile:
+
+1. **GitHub metrics SVG** (`.github/workflows/metrics.yml`) — renders GitHub
+   stats as a static SVG committed to the repo, so the README image never breaks
+   (the public `github-readme-stats` service returns 503 under rate limits).
+2. **AI usage stats** (`stats/`) — real Claude Code usage badges, below.
+
+## One-time setup: GitHub metrics token
+
+`lowlighter/metrics` needs a token to read your stats:
+
+1. Create a **classic** Personal Access Token at
+   <https://github.com/settings/tokens> with scopes `repo` and `read:org`
+   (add `read:user` for account stats).
+2. Add it as a repo secret named **`METRICS_TOKEN`**:
+   `gh secret set METRICS_TOKEN` (paste the token when prompted).
+3. Trigger the workflow once: `gh workflow run "GitHub metrics"`.
+
+It then runs daily and commits `github-metrics.svg` +
+`github-metrics-languages.svg`, which the README references.
+
+---
+
 # AI usage stats
 
 Real Claude Code usage badges on my profile, aggregated across every machine I
