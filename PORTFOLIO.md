@@ -13,7 +13,7 @@
 | Published Blogs | 24 |
 | Code Samples (aws-samples + personal) | 21 |
 | Workshops | 10 |
-| Conference Talks / Videos | 21 |
+| Conference Talks / Videos | 29 |
 | Published Case Studies | 2 |
 | AWS Solutions Guidance | 2 |
 
@@ -97,26 +97,34 @@
 | # | Title | Year | Event | Type | Link |
 |---|-------|------|-------|------|------|
 | 1 | DreamSquad Partner Meetup: Agentic Readiness with AWS Transform | 2026 | Partner Event | video | [▶️](https://www.youtube.com/live/u5aDrO1-yWY) |
-| 2 | Elevate Multi-Tenant SaaS Operations: DevOps Strategy with Kubernetes | 2025 | AWS re:Invent | Builders' Session | — |
-| 3 | Elevate Multi-Tenant SaaS Operations: DevOps Strategy with Kubernetes [REPEAT] | 2025 | AWS re:Invent | Builders' Session | — |
-| 4 | From Logs To Insights: Real-time Conversational Troubleshooting for Kubernetes With GenAI | 2025 | KubeCon EMEA | Breakout Session | — |
-| 5 | AWS Summit London 2025 - VIL210: Serverless K8s AI - DeepSeek in EKS AutoMode | 2025 |  | Conference Talk | [▶️](https://aws.amazon.com/events/summits/london/) |
-| 6 | AWS Summit Los Angeles 2025 - Getting Started with EKS AutoMode Builder Session | 2025 |  | Conference Talk | [▶️](https://aws.amazon.com/events/summits/los-angeles/) |
-| 7 | TFC Summit 2025 - CON1518: From Logs To Insights - Real-time Conversational Troubleshooting for K8s With GenAI | 2025 |  | Conference Talk | — |
-| 8 | PlatformCon 2025: From Chaos to Control - Structuring Repositories for Scalable GitOps on Kubernetes | 2025 |  | conference-session | [▶️](https://platformcon.com/sessions/from-chaos-to-control-structuring-repositories-for-scalable-gitops-on-kubernetes) |
-| 9 | Containers from the Couch: DeepSeek on Amazon EKS using vLLM | 2025 |  | YouTube Video | [▶️](https://www.youtube.com/watch?v=-YeNNOZ0y84) |
-| 10 | LinkedIn Video: L7 SA Demonstration of DeepSeek on EKS | 2025 |  | LinkedIn Video | [▶️](https://www.linkedin.com/feed/update/urn:li:activity:7323637338096513024/) |
-| 11 | Re:Invent 2024 - CNS421: Streamline Amazon EKS Operations with Agentic AI | 2024-2025 |  | Conference Talk | [▶️](https://github.com/aws-samples/sample-eks-troubleshooting-rag-chatbot/tree/riv2025-initial/apps/agentic-troubleshooting) |
-| 12 | Re:Invent 2024 - CNS207-R: Accelerate Container Migrations with Amazon EKS Auto Mode | 2024-2025 |  | Conference Talk | — |
-| 13 | Accelerating Application Delivery with OpenTofu Controller and GitOps | 2024 | KubeCon NA | Breakout Session | — |
-| 14 | Empowering Platform Engineering: Unleashing the Potential of KubeVela and Crossplane | 2024 | PlatformCon | Online Session | — |
-| 15 | KubeCon NA 2024: Accelerating Application Delivery with OpenTofu and GitOps | 2024 |  | conference-session | [▶️](https://colocatedeventsna2024.sched.com/event/1jCbL/accelerating-application-delivery-with-opentofu-controller-and-gitops-lucas-duarte-tiago-reichert-aws) |
-| 16 | Scalable SaaS deployments on Amazon EKS using GitOps | 2023 | AWS re:Invent | Builder Session | — |
-| 17 | EKS NuBank Advanced Deployments Presentation | 2022 | AWS Summit Sao Paulo | Breakout Session | — |
-| 18 | Migração e otimização de aplicações SaaS na AWS | 2022 | AWS Summit Sao Paulo | Breakout Session | — |
-| 19 | Canary deployment with metrics-driven rollback ability for Amazon ECS | 2022 | AWS re:Invent | Breakout Session | — |
-| 20 | Descubra como a Sensedia consegue ajudar clientes da AWS com Open Banking | 2021 | AWS Summit Online | Online Session | — |
-| 21 | Fundamentos de Arquitetura SaaS (Software as a Service) | 2021 | AWS re:Invent | Online Session | — |
+| 2 | AWS re:Invent 2025 — CNS421: Streamline Amazon EKS Operations with Agentic AI | 2025 | AWS re:Invent | Code Talk | [▶️](https://www.youtube.com/watch?v=4s-a0jY4kSE) |
+| 3 | Elevate Multi-Tenant SaaS Operations: DevOps Strategy with Kubernetes | 2025 | AWS re:Invent | Builders' Session | — |
+| 4 | Elevate Multi-Tenant SaaS Operations: DevOps Strategy with Kubernetes [REPEAT] | 2025 | AWS re:Invent | Builders' Session | — |
+| 5 | From Logs To Insights: Real-time Conversational Troubleshooting for Kubernetes With GenAI | 2025 | KubeCon EMEA | Breakout Session | — |
+| 6 | AWS Summit London 2025 - VIL210: Serverless K8s AI - DeepSeek in EKS AutoMode | 2025 |  | Conference Talk | [▶️](https://aws.amazon.com/events/summits/london/) |
+| 7 | AWS Summit Los Angeles 2025 - Getting Started with EKS AutoMode Builder Session | 2025 |  | Conference Talk | [▶️](https://aws.amazon.com/events/summits/los-angeles/) |
+| 8 | TFC Summit 2025 - CON1518: From Logs To Insights - Real-time Conversational Troubleshooting for K8s With GenAI | 2025 |  | Conference Talk | — |
+| 9 | PlatformCon 2025: From Chaos to Control - Structuring Repositories for Scalable GitOps on Kubernetes | 2025 |  | conference-session | [▶️](https://platformcon.com/sessions/from-chaos-to-control-structuring-repositories-for-scalable-gitops-on-kubernetes) |
+| 10 | Containers from the Couch: DeepSeek on Amazon EKS using vLLM | 2025 |  | YouTube Video | [▶️](https://www.youtube.com/watch?v=-YeNNOZ0y84) |
+| 11 | KubeCon London 2025: From Logs to Insights — Real-time Conversational Troubleshooting for K8s with GenAI | 2025 | KubeCon EMEA | Breakout Session | [▶️](https://www.youtube.com/watch?v=7yhBBzVmPks) |
+| 12 | KCD Texas 2025: Beyond One Size Fits All — Resource Optimization on EKS with StormForge | 2025 | KCD Texas | Breakout Session | [▶️](https://www.youtube.com/watch?v=VDvEWWDHRSM) |
+| 13 | PlatformCon 2025: From Chaos to Control — Structuring GitOps Repos for Scalable K8s | 2025 | PlatformCon | Online Session | [▶️](https://www.youtube.com/watch?v=VOCo3qNPGDE) |
+| 14 | KubeCon Atlanta NA 2025: SOCI — Improve Cold Start Times of Your Models on EKS | 2025 | KubeCon NA | Booth Session | [▶️](https://www.youtube.com/watch?v=MdudBbHyb84) |
+| 15 | Containers from the Couch: GenAI on EKS Reference Architecture (Ray) | 2025 | AWS | Livestream | [▶️](https://www.youtube.com/watch?v=h1RRdYHdDiY) |
+| 16 | StormForge + EKS AutoMode Webinar | 2025 | Partner Webinar | Webinar | [▶️](https://www.youtube.com/watch?v=0fcjlHK0CdI) |
+| 17 | DeepSeek R1 on Amazon EKS with AutoMode (AWS Summit London) | 2025 | AWS Summit London | Demo | [▶️](https://www.youtube.com/watch?v=dZOsjmJjRXQ) |
+| 18 | LinkedIn Video: L7 SA Demonstration of DeepSeek on EKS | 2025 |  | LinkedIn Video | [▶️](https://www.linkedin.com/feed/update/urn:li:activity:7323637338096513024/) |
+| 19 | Re:Invent 2024 - CNS421: Streamline Amazon EKS Operations with Agentic AI | 2024-2025 |  | Conference Talk | [▶️](https://github.com/aws-samples/sample-eks-troubleshooting-rag-chatbot/tree/riv2025-initial/apps/agentic-troubleshooting) |
+| 20 | Re:Invent 2024 - CNS207-R: Accelerate Container Migrations with Amazon EKS Auto Mode | 2024-2025 |  | Conference Talk | — |
+| 21 | Accelerating Application Delivery with OpenTofu Controller and GitOps | 2024 | KubeCon NA | Breakout Session | — |
+| 22 | Empowering Platform Engineering: Unleashing the Potential of KubeVela and Crossplane | 2024 | PlatformCon | Online Session | — |
+| 23 | KubeCon NA 2024: Accelerating Application Delivery with OpenTofu and GitOps | 2024 |  | conference-session | [▶️](https://colocatedeventsna2024.sched.com/event/1jCbL/accelerating-application-delivery-with-opentofu-controller-and-gitops-lucas-duarte-tiago-reichert-aws) |
+| 24 | Scalable SaaS deployments on Amazon EKS using GitOps | 2023 | AWS re:Invent | Builder Session | — |
+| 25 | EKS NuBank Advanced Deployments Presentation | 2022 | AWS Summit Sao Paulo | Breakout Session | — |
+| 26 | Migração e otimização de aplicações SaaS na AWS | 2022 | AWS Summit Sao Paulo | Breakout Session | — |
+| 27 | Canary deployment with metrics-driven rollback ability for Amazon ECS | 2022 | AWS re:Invent | Breakout Session | — |
+| 28 | Descubra como a Sensedia consegue ajudar clientes da AWS com Open Banking | 2021 | AWS Summit Online | Online Session | — |
+| 29 | Fundamentos de Arquitetura SaaS (Software as a Service) | 2021 | AWS re:Invent | Online Session | — |
 
 ---
 

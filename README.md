@@ -27,7 +27,7 @@ Today I lead **Agentic Transformation** initiatives at AWS: designing technical 
 
 <p align="center">
   <img src="https://img.shields.io/badge/📝_Blog_posts-24-FF9900?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎤_Talks_&_videos-21-D97757?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎤_Talks_&_videos-29-D97757?style=flat-square" />
   <img src="https://img.shields.io/badge/🎓_Workshops-10-326CE5?style=flat-square" />
   <img src="https://img.shields.io/badge/📦_Code_samples-21-8A63D2?style=flat-square" />
 </p>
@@ -36,15 +36,15 @@ Today I lead **Agentic Transformation** initiatives at AWS: designing technical 
 
 ### 🎤 Selected talks
 
-- **DreamSquad Partner Meetup 2026** — [Agentic Readiness with AWS Transform](https://www.youtube.com/live/u5aDrO1-yWY)
-- **KubeCon EU 2025** — From Logs to Insights: Real-time Conversational Troubleshooting for Kubernetes with GenAI
-- **AWS re:Invent 2024/25** — CNS421: Streamline Amazon EKS Operations with Agentic AI
-- **AWS re:Invent 2024/25** — CNS207: Accelerate Container Migrations with EKS Auto Mode
+- **AWS re:Invent 2025** — [CNS421: Streamline Amazon EKS Operations with Agentic AI](https://www.youtube.com/watch?v=4s-a0jY4kSE) 📹
+- **KubeCon EU (London) 2025** — [From Logs to Insights: Real-time Conversational Troubleshooting for K8s with GenAI](https://www.youtube.com/watch?v=7yhBBzVmPks) 📹
+- **KubeCon NA (Atlanta) 2025** — [SOCI: Improve Cold Start Times of Your Models on EKS](https://www.youtube.com/watch?v=MdudBbHyb84) 📹
+- **KCD Texas 2025** — [Resource Optimization on EKS with StormForge](https://www.youtube.com/watch?v=VDvEWWDHRSM) 📹
+- **PlatformCon 2025** — [From Chaos to Control: Structuring GitOps Repos for Scalable K8s](https://www.youtube.com/watch?v=VOCo3qNPGDE) 📹
+- **DreamSquad Partner Meetup 2026** — [Agentic Readiness with AWS Transform](https://www.youtube.com/live/u5aDrO1-yWY) 📹
 - **KubeCon NA 2024** — [Accelerating Application Delivery with OpenTofu Controller and GitOps](https://colocatedeventsna2024.sched.com/event/1jCbL/accelerating-application-delivery-with-opentofu-controller-and-gitops-lucas-duarte-tiago-reichert-aws)
-- **PlatformCon 2025** — [From Chaos to Control: Structuring Repositories for Scalable GitOps on Kubernetes](https://platformcon.com/sessions/from-chaos-to-control-structuring-repositories-for-scalable-gitops-on-kubernetes)
-- **Containers from the Couch** — [DeepSeek on Amazon EKS using vLLM](https://www.youtube.com/watch?v=-YeNNOZ0y84)
 
-<sub>→ 21 talks & videos total in the [full portfolio](./PORTFOLIO.md#-conference-talks--videos)</sub>
+<sub>→ 29 talks & videos total in the [full portfolio](./PORTFOLIO.md#-conference-talks--videos)</sub>
 
 ---
 
