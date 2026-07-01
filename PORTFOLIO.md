@@ -57,7 +57,7 @@
 |---|-----------|------|-------------|
 | 1 | [gen-ai-on-eks](https://github.com/aws-samples/gen-ai-on-eks) | 2025 | Comprehensive GenAI on EKS reference architecture using Ray. 44 GitHub stars,... |
 | 2 | [deepseek-using-vllm-on-eks](https://github.com/aws-samples/deepseek-using-vllm-on-eks) | 2025 | DeepSeek reference architecture for EKS. 55 GitHub stars. Featured in communi... |
-| 3 | [sample-eks-troubleshooting-rag-chatbot](https://github.com/aws-samples/sample-eks-troubleshooting-rag-chatbot) | 2025 | EKS RAG Troubleshooting solution using GenAI. 25 GitHub stars, 9 forks. Featu... |
+| 3 | [eks-troubleshooting-agentic-ai-chatops](https://github.com/aws-solutions-library-samples/eks-troubleshooting-agentic-ai-chatops) | 2025 | Agentic EKS troubleshooting solution using GenAI. Now an official AWS Solutions Library sample (migrated from aws-samples). Featured in re:Invent CNS421. |
 | 4 | [sample-genai-on-eks](https://github.com/aws-samples/sample-genai-on-eks) | 2025 | Assets for GenAI on EKS Workshop. |
 | 5 | [multi-cluster-kubecost-eks-config](https://github.com/lusoal/multi-cluster-kubecost-eks-config) | 2025 | Kubecost demo for ArcticWolf multi-cluster setup. |
 | 6 | [Data on EKS - JupyterHub Blueprint](https://github.com/awslabs/data-on-eks/tree/main/ai-ml/jupyterhub) | 2024 | Contributed JupyterHub multi-tenant blueprint to the Data on EKS project. |
@@ -114,7 +114,7 @@
 | 16 | StormForge + EKS AutoMode Webinar | 2025 | Partner Webinar | Webinar | [▶️](https://www.youtube.com/watch?v=0fcjlHK0CdI) |
 | 17 | DeepSeek R1 on Amazon EKS with AutoMode (AWS Summit London) | 2025 | AWS Summit London | Demo | [▶️](https://www.youtube.com/watch?v=dZOsjmJjRXQ) |
 | 18 | LinkedIn Video: L7 SA Demonstration of DeepSeek on EKS | 2025 |  | LinkedIn Video | [▶️](https://www.linkedin.com/feed/update/urn:li:activity:7323637338096513024/) |
-| 19 | Re:Invent 2024 - CNS421: Streamline Amazon EKS Operations with Agentic AI | 2024-2025 |  | Conference Talk | [▶️](https://github.com/aws-samples/sample-eks-troubleshooting-rag-chatbot/tree/riv2025-initial/apps/agentic-troubleshooting) |
+| 19 | Re:Invent 2024 - CNS421: Streamline Amazon EKS Operations with Agentic AI | 2024-2025 |  | Conference Talk | [▶️](https://github.com/aws-solutions-library-samples/eks-troubleshooting-agentic-ai-chatops) |
 | 20 | Re:Invent 2024 - CNS207-R: Accelerate Container Migrations with Amazon EKS Auto Mode | 2024-2025 |  | Conference Talk | — |
 | 21 | Accelerating Application Delivery with OpenTofu Controller and GitOps | 2024 | KubeCon NA | Breakout Session | — |
 | 22 | Empowering Platform Engineering: Unleashing the Potential of KubeVela and Crossplane | 2024 | PlatformCon | Online Session | — |

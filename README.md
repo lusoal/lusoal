@@ -66,7 +66,7 @@ Today I lead **Agentic Transformation** initiatives at AWS: designing technical 
 |---|---|---|
 | [gen-ai-on-eks](https://github.com/aws-samples/gen-ai-on-eks) | ![stars](https://img.shields.io/github/stars/aws-samples/gen-ai-on-eks?style=flat-square&label=%E2%98%85&color=D97757) | GenAI on EKS reference architecture using Ray |
 | [deepseek-using-vllm-on-eks](https://github.com/aws-samples/deepseek-using-vllm-on-eks) | ![stars](https://img.shields.io/github/stars/aws-samples/deepseek-using-vllm-on-eks?style=flat-square&label=%E2%98%85&color=D97757) | DeepSeek reference architecture for EKS with vLLM |
-| [sample-eks-troubleshooting-rag-chatbot](https://github.com/aws-samples/sample-eks-troubleshooting-rag-chatbot) | ![stars](https://img.shields.io/github/stars/aws-samples/sample-eks-troubleshooting-rag-chatbot?style=flat-square&label=%E2%98%85&color=D97757) | Agentic EKS troubleshooting with GenAI (re:Invent CNS421) |
+| [eks-troubleshooting-agentic-ai-chatops](https://github.com/aws-solutions-library-samples/eks-troubleshooting-agentic-ai-chatops) | ![stars](https://img.shields.io/github/stars/aws-solutions-library-samples/eks-troubleshooting-agentic-ai-chatops?style=flat-square&label=%E2%98%85&color=D97757) | Agentic EKS troubleshooting with GenAI (re:Invent CNS421) |
 | [eks-saas-gitops](https://github.com/aws-samples/eks-saas-gitops) | ![stars](https://img.shields.io/github/stars/aws-samples/eks-saas-gitops?style=flat-square&label=%E2%98%85&color=D97757) | Multi-tenant SaaS on EKS using GitOps (ArgoCD/Flux) |
 
 <sub>→ 21 code samples & contributions (incl. Data on EKS, GenAI CVE Patching) in the [full portfolio](./PORTFOLIO.md#-code-samples--repositories)</sub>
