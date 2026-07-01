@@ -1,0 +1,15 @@
+{
+  "machine": "amazon",
+  "totalTokens": 1322185709,
+  "outputTokens": 2784716,
+  "activeDays": 18,
+  "sessions": 18,
+  "models": [
+    "claude-haiku-4-5-20251001",
+    "claude-opus-4-6",
+    "claude-opus-4-7",
+    "claude-opus-4-8"
+  ],
+  "firstDay": "2026-05-28",
+  "lastDay": "2026-07-01"
+}

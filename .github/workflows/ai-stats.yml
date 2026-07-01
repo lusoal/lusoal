@@ -1,0 +1,33 @@
+name: Render AI stats
+
+# Re-renders the README badges whenever a machine pushes new usage data.
+on:
+  push:
+    paths:
+      - "stats/data/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Render badges into README
+        run: node stats/render.mjs
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: refresh AI usage badges"
+            git push
+          else
+            echo "No README changes."
+          fi
